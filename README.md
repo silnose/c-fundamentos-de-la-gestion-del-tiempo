@@ -1,5 +1,7 @@
 # Fundamentos de la gestión del tiempo
 
+<https://www.linkedin.com/learning/fundamentos-de-la-gestion-del-tiempo/presentacion-del-curso-fundamentos-de-la-gestion-del-tiempo>
+
 Aprende en este curso a organizarte mejor para disponer de más tiempo de calidad en el que desarrollar tus objetivos y expectativas. Descubre trucos, herramientas, métodos y acciones específicas dirigidas a la mejora de tu eficacia y tu bienestar general, con los que serás capar de tomar mejores decisiones. Mantén más control sobre las tareas a las que dedicas tu tiempo, trabaja tu disciplina, perseverancia y responsabilidad individual, y sustituye el modo reactivo de actuar por el modo reflexivo.
 
 # 1. Conceptos Imprescindibles de optimizacion de tiempo
@@ -316,3 +318,11 @@ Pocas cosas hay que dé más gusto que finalizar tu jornada con la satisfacción
 Así que recuerda: no por dedicarle más horas al trabajo serás más eficaz. De hecho, nuestra capacidad de atención tiene un límite. La fuerza de voluntad tiene un límite.
 
 Planificar tu momento de parar de trabajar es tan importante como planificar tu tiempo de trabajo. Cumple con tus prioridades y respeta tus horarios de inicio y fin de jornada. Va en ello tu salud, tu felicidad y tu eficacia como profesional.
+
+## Certificado
+
+- [Diploma](./static-readme/CertificateOfCompletion_Fundamentos%20de%20la%20gestion%20del%20tiempo.pdf)
+
+---
+
+[silnose](https://github.com/silnose) 😊
